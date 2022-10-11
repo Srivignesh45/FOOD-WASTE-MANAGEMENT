@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="alert">AlertDialog</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+    <string name="log_in">LOG IN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="close_app">Close app</string>
+    <string name="book_your_trip">BOOK YOUR TRIP</string>
+    <string name="from">FROM</string>
+    <string name="enter_location">Enter location</string>
+    <string name="to">TO</string>
+    <string name="enter__location">Enter Location</string>
+    <string name="date">DATE</string>
+    <string name="enter_date">Enter date</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="or">----------------OR-----------------</string>
+    <string name="name">NAME</string>
+    <string name="todo">TODO</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="gather_your_food">GATHER YOUR FOOD</string>
+    <string name="create">Create</string>
+</resources>
